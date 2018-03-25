@@ -14,7 +14,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.datasource.DriverManagerDataSource;
 /**
  * AppConfig for initial setup
- * @author rbonigi
+ * @author rbonigi 
  *
  */
 @Configuration
