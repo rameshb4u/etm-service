@@ -8,7 +8,7 @@ import com.intuit.etm.service.TweetService;
 
 /**
  * Tweet Service Implementation
- * @author supraja
+ * @author rbonigi
  *
  */
 @Service("tweetService")

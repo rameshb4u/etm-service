@@ -2,7 +2,7 @@ package com.intuit.etm.vo;
 
 /**
  * Tweet VO
- * @author supraja
+ * @author rbonigi
  *
  */
 public class Tweet {
